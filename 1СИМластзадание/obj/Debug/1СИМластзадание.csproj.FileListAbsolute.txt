@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\bin\Debug\1СИМластзадание.exe.config
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\bin\Debug\1СИМластзадание.exe
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\bin\Debug\1СИМластзадание.pdb
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\1СИМластзадание.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\MathExpressionCalculator.MainForm.resources
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\_1СИМластзадание.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\1СИМластзадание.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\1СИМластзадание.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\1СИМластзадание.exe
+C:\Users\Дмитрий\Desktop\Долги\1СИМластзадание\obj\Debug\1СИМластзадание.pdb
